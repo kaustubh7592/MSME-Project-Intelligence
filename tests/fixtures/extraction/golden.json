@@ -1,0 +1,30 @@
+[
+  {
+    "source_project_id": "79",
+    "sha256": "9c13c8567ecb397d57a03a25bff90836e32cb87cafb7c6d66e53b451abd72be0",
+    "page_count": 2,
+    "pages": [
+      {"page_number": 1, "snippet": "BAKERY PRODUCTS"},
+      {"page_number": 1, "snippet": "TOTAL PROJECT COST : Rs. 1,302,000.00"}
+    ]
+  },
+  {
+    "source_project_id": "156",
+    "sha256": "1c861c0a9484a05040855fbe1b1a942465efafd5dc6fc856f0982e09b7435837",
+    "page_count": 15,
+    "pages": [
+      {"page_number": 2, "snippet": "PROJECT AT GLANCE"},
+      {"page_number": 2, "snippet": "7 Cost of Project 21.48 Rs. In Lakhs"},
+      {"page_number": 2, "snippet": "12 Employment 7 Persons"}
+    ]
+  },
+  {
+    "source_project_id": "709",
+    "sha256": "21ecbdbcc4f6b83ef961f3b25c287fa4de9e3037706ca5dcd90992ea83c73711",
+    "page_count": 23,
+    "pages": [
+      {"page_number": 2, "snippet": "HAND MADE PAPER FROM WASTE"},
+      {"page_number": 2, "snippet": "The history of paper dates back to the history of human culture and civilization."}
+    ]
+  }
+]

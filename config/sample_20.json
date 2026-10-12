@@ -1,0 +1,709 @@
+{
+  "count": 20,
+  "projects": [
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "Samadhan Projects",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBook_Binding_Unit_(_Samadhan_Projects_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBook_Binding_Unit_(_Samadhan_Projects_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBook_Binding_Unit_(_Samadhan_Projects_).pdf"
+        }
+      ],
+      "external_project_id": "156",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2148000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315293)/",
+        "DocPath": "Documents/ProjectSampleReport/Book_Binding_Unit_(_Samadhan_Projects_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 156,
+        "ProjectCost": "2148000.0000",
+        "ProjectName": "Book Binding Unit ( Samadhan Projects )"
+      },
+      "raw_title": "Book Binding Unit ( Samadhan Projects )",
+      "record_key": "004eebc6-a58e-5496-a4a4-2791bee3d969",
+      "title": "Book Binding Unit ( Samadhan Projects )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "SERVICE AND TEXTILE INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FADD-ON_CARDS_FOR_COMPUTER_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FADD-ON_CARDS_FOR_COMPUTER_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FADD-ON_CARDS_FOR_COMPUTER_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "3",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "450000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315270)/",
+        "DocPath": "Documents/ProjectSampleReport/ADD-ON_CARDS_FOR_COMPUTER_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 3,
+        "ProjectCost": "450000.0000",
+        "ProjectName": "ADD-ON CARDS FOR COMPUTER ( SERVICE AND TEXTILE INDUSTRY )"
+      },
+      "raw_title": "ADD-ON CARDS FOR COMPUTER ( SERVICE AND TEXTILE INDUSTRY )",
+      "record_key": "00a814a6-0d63-5497-8aa8-694db885b30d",
+      "title": "ADD-ON CARDS FOR COMPUTER ( SERVICE AND TEXTILE INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "POLYMER AND CHEMICAL BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FENGINE_MOUNTING-RUBBER_BONDED_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FENGINE_MOUNTING-RUBBER_BONDED_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FENGINE_MOUNTING-RUBBER_BONDED_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "326",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "885000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315337)/",
+        "DocPath": "Documents/ProjectSampleReport/ENGINE_MOUNTING-RUBBER_BONDED_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 326,
+        "ProjectCost": "885000.0000",
+        "ProjectName": "ENGINE MOUNTING-RUBBER BONDED ( POLYMER AND CHEMICAL BASED INDUSTRY )"
+      },
+      "raw_title": "ENGINE MOUNTING-RUBBER BONDED ( POLYMER AND CHEMICAL BASED INDUSTRY )",
+      "record_key": "010a9b3e-c1cf-59b1-a551-8d94a0f77bc6",
+      "title": "ENGINE MOUNTING-RUBBER BONDED ( POLYMER AND CHEMICAL BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "RURAL ENGG. AND BIO-TECH INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBUS_BODY_BUILDING-LIGHT_COMMERCIAL_VEHICLE_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBUS_BODY_BUILDING-LIGHT_COMMERCIAL_VEHICLE_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBUS_BODY_BUILDING-LIGHT_COMMERCIAL_VEHICLE_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "103",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "1472000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315293)/",
+        "DocPath": "Documents/ProjectSampleReport/BUS_BODY_BUILDING-LIGHT_COMMERCIAL_VEHICLE_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 103,
+        "ProjectCost": "1472000.0000",
+        "ProjectName": "BUS BODY BUILDING/LIGHT COMMERCIAL VEHICLE ( RURAL ENGG. AND BIO-TECH INDUSTRY )"
+      },
+      "raw_title": "BUS BODY BUILDING/LIGHT COMMERCIAL VEHICLE ( RURAL ENGG. AND BIO-TECH INDUSTRY )",
+      "record_key": "024be44b-bda4-5d66-b581-adde5a4615c9",
+      "title": "BUS BODY BUILDING/LIGHT COMMERCIAL VEHICLE ( RURAL ENGG. AND BIO-TECH INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "MINERAL BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FTAILORS'_CHALK_(_MINERAL_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FTAILORS'_CHALK_(_MINERAL_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FTAILORS'_CHALK_(_MINERAL_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "879",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "161700"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315450)/",
+        "DocPath": "Documents/ProjectSampleReport/TAILORS'_CHALK_(_MINERAL_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 879,
+        "ProjectCost": "161700.0000",
+        "ProjectName": "TAILORS' CHALK ( MINERAL BASED INDUSTRY )"
+      },
+      "raw_title": "TAILORS' CHALK ( MINERAL BASED INDUSTRY )",
+      "record_key": "02f2bbe2-dd00-50cb-92ea-c6b306baea2e",
+      "title": "TAILORS' CHALK ( MINERAL BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "HAND MADE PAPER AND FIBRE INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_CORRUGATED_BOXES_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_CORRUGATED_BOXES_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_CORRUGATED_BOXES_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "706",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2484000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315423)/",
+        "DocPath": "Documents/ProjectSampleReport/PROJECT_PROFILE_FOR_CORRUGATED_BOXES_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 706,
+        "ProjectCost": "2484000.0000",
+        "ProjectName": "PROJECT PROFILE FOR CORRUGATED BOXES ( HAND MADE PAPER AND FIBRE INDUSTRY )"
+      },
+      "raw_title": "PROJECT PROFILE FOR CORRUGATED BOXES ( HAND MADE PAPER AND FIBRE INDUSTRY )",
+      "record_key": "03106fcf-b3c5-5b38-b8da-131e136a6bf3",
+      "title": "PROJECT PROFILE FOR CORRUGATED BOXES ( HAND MADE PAPER AND FIBRE INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "AGRO BASED FOOD PROCESSING INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBAKERY_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBAKERY_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FBAKERY_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "79",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "1302000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315293)/",
+        "DocPath": "Documents/ProjectSampleReport/BAKERY_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 79,
+        "ProjectCost": "1302000.0000",
+        "ProjectName": "BAKERY PRODUCTS ( AGRO BASED FOOD PROCESSING INDUSTRY )"
+      },
+      "raw_title": "BAKERY PRODUCTS ( AGRO BASED FOOD PROCESSING INDUSTRY )",
+      "record_key": "037d3aa6-b61f-56c9-b677-8bf64a570c72",
+      "title": "BAKERY PRODUCTS ( AGRO BASED FOOD PROCESSING INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "COIR BOARD BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FORAUTOMATIC_COIR_FIBRE_DYEIG-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FORAUTOMATIC_COIR_FIBRE_DYEIG-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FORAUTOMATIC_COIR_FIBRE_DYEIG-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "716",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2500000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315423)/",
+        "DocPath": "Documents/ProjectSampleReport/PROJECT_PROFILE_FORAUTOMATIC_COIR_FIBRE_DYEIG-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 716,
+        "ProjectCost": "2500000.0000",
+        "ProjectName": "PROJECT PROFILE FORAUTOMATIC COIR FIBRE DYEIG/BLEACHING UNIT ( COIR BOARD BASED INDUSTRY )"
+      },
+      "raw_title": "PROJECT PROFILE FORAUTOMATIC COIR FIBRE DYEIG/BLEACHING UNIT ( COIR BOARD BASED INDUSTRY )",
+      "record_key": "0674c47a-d8c8-5b2d-80a7-42df79b3677d",
+      "title": "PROJECT PROFILE FORAUTOMATIC COIR FIBRE DYEIG/BLEACHING UNIT ( COIR BOARD BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "FOREST BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPRODUCTION_OF_BAMBOO_MAT_BOARD_UNIT_(_FOREST_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPRODUCTION_OF_BAMBOO_MAT_BOARD_UNIT_(_FOREST_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPRODUCTION_OF_BAMBOO_MAT_BOARD_UNIT_(_FOREST_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "659",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "996000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315413)/",
+        "DocPath": "Documents/ProjectSampleReport/PRODUCTION_OF_BAMBOO_MAT_BOARD_UNIT_(_FOREST_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 659,
+        "ProjectCost": "996000.0000",
+        "ProjectName": "PRODUCTION OF BAMBOO MAT BOARD UNIT ( FOREST BASED INDUSTRY )"
+      },
+      "raw_title": "PRODUCTION OF BAMBOO MAT BOARD UNIT ( FOREST BASED INDUSTRY )",
+      "record_key": "0964cd46-0122-5af0-b6bc-988f3f6d3acb",
+      "title": "PRODUCTION OF BAMBOO MAT BOARD UNIT ( FOREST BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "COIR BOARD BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_COIR_PITH_GROW_BAG_MAKING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_COIR_PITH_GROW_BAG_MAKING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_COIR_PITH_GROW_BAG_MAKING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "700",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2500000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315423)/",
+        "DocPath": "Documents/ProjectSampleReport/PROJECT_PROFILE_FOR_COIR_PITH_GROW_BAG_MAKING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 700,
+        "ProjectCost": "2500000.0000",
+        "ProjectName": "PROJECT PROFILE FOR COIR PITH GROW BAG MAKING UNIT ( COIR BOARD BASED INDUSTRY )"
+      },
+      "raw_title": "PROJECT PROFILE FOR COIR PITH GROW BAG MAKING UNIT ( COIR BOARD BASED INDUSTRY )",
+      "record_key": "7058f6f4-d304-52df-8199-95f830babcd6",
+      "title": "PROJECT PROFILE FOR COIR PITH GROW BAG MAKING UNIT ( COIR BOARD BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "AGRO BASED FOOD PROCESSING INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FMILK_BASED_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FMILK_BASED_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FMILK_BASED_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "547",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2000000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315397)/",
+        "DocPath": "Documents/ProjectSampleReport/MILK_BASED_PRODUCTS_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 547,
+        "ProjectCost": "2000000.0000",
+        "ProjectName": "MILK BASED PRODUCTS ( AGRO BASED FOOD PROCESSING INDUSTRY )"
+      },
+      "raw_title": "MILK BASED PRODUCTS ( AGRO BASED FOOD PROCESSING INDUSTRY )",
+      "record_key": "74aa9237-91ff-52d6-8128-937701bd4278",
+      "title": "MILK BASED PRODUCTS ( AGRO BASED FOOD PROCESSING INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "HAND MADE PAPER AND FIBRE INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_HAND_MADE_PAPER_FROM_WASTE_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_HAND_MADE_PAPER_FROM_WASTE_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_HAND_MADE_PAPER_FROM_WASTE_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "709",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2500000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315423)/",
+        "DocPath": "Documents/ProjectSampleReport/PROJECT_PROFILE_FOR_HAND_MADE_PAPER_FROM_WASTE_(_HAND_MADE_PAPER_AND_FIBRE_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 709,
+        "ProjectCost": "2500000.0000",
+        "ProjectName": "PROJECT PROFILE FOR HAND MADE PAPER FROM WASTE ( HAND MADE PAPER AND FIBRE INDUSTRY )"
+      },
+      "raw_title": "PROJECT PROFILE FOR HAND MADE PAPER FROM WASTE ( HAND MADE PAPER AND FIBRE INDUSTRY )",
+      "record_key": "f7732504-d617-5a61-a5e4-882abf839210",
+      "title": "PROJECT PROFILE FOR HAND MADE PAPER FROM WASTE ( HAND MADE PAPER AND FIBRE INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "COIR BOARD BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_AUTOMATIC_COIR_YARN_DYEING-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_AUTOMATIC_COIR_YARN_DYEING-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FPROJECT_PROFILE_FOR_AUTOMATIC_COIR_YARN_DYEING-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "680",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2500000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315413)/",
+        "DocPath": "Documents/ProjectSampleReport/PROJECT_PROFILE_FOR_AUTOMATIC_COIR_YARN_DYEING-BLEACHING_UNIT_(_COIR_BOARD_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 680,
+        "ProjectCost": "2500000.0000",
+        "ProjectName": "PROJECT PROFILE FOR AUTOMATIC COIR YARN DYEING/BLEACHING UNIT ( COIR BOARD BASED INDUSTRY )"
+      },
+      "raw_title": "PROJECT PROFILE FOR AUTOMATIC COIR YARN DYEING/BLEACHING UNIT ( COIR BOARD BASED INDUSTRY )",
+      "record_key": "f9669e7e-411d-51ef-8b32-73b7bcd28d53",
+      "title": "PROJECT PROFILE FOR AUTOMATIC COIR YARN DYEING/BLEACHING UNIT ( COIR BOARD BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "AGRO BASED FOOD PROCESSING INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FICE-CREAM_PARLOUR_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FICE-CREAM_PARLOUR_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FICE-CREAM_PARLOUR_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "439",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "524000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315347)/",
+        "DocPath": "Documents/ProjectSampleReport/ICE-CREAM_PARLOUR_(_AGRO_BASED_FOOD_PROCESSING_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 439,
+        "ProjectCost": "524000.0000",
+        "ProjectName": "ICE-CREAM PARLOUR ( AGRO BASED FOOD PROCESSING INDUSTRY )"
+      },
+      "raw_title": "ICE-CREAM PARLOUR ( AGRO BASED FOOD PROCESSING INDUSTRY )",
+      "record_key": "fba3a525-5183-5ce7-b19a-f7dfcf0f79dd",
+      "title": "ICE-CREAM PARLOUR ( AGRO BASED FOOD PROCESSING INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "FOREST BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FHONEY_PROCESSING_PLANT_%26_HONEY_HOUSE_(_FOREST_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FHONEY_PROCESSING_PLANT_%26_HONEY_HOUSE_(_FOREST_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FHONEY_PROCESSING_PLANT_%26_HONEY_HOUSE_(_FOREST_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "418",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "1800000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315347)/",
+        "DocPath": "Documents/ProjectSampleReport/HONEY_PROCESSING_PLANT_&_HONEY_HOUSE_(_FOREST_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 418,
+        "ProjectCost": "1800000.0000",
+        "ProjectName": "HONEY PROCESSING PLANT & HONEY HOUSE ( FOREST BASED INDUSTRY )"
+      },
+      "raw_title": "HONEY PROCESSING PLANT & HONEY HOUSE ( FOREST BASED INDUSTRY )",
+      "record_key": "fbc06768-3a18-596b-a433-b63014c60453",
+      "title": "HONEY PROCESSING PLANT & HONEY HOUSE ( FOREST BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "MINERAL BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FCERAMIC_ART_WARES_SCHEME_(_MINERAL_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FCERAMIC_ART_WARES_SCHEME_(_MINERAL_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FCERAMIC_ART_WARES_SCHEME_(_MINERAL_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "178",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "1700000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315310)/",
+        "DocPath": "Documents/ProjectSampleReport/CERAMIC_ART_WARES_SCHEME_(_MINERAL_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 178,
+        "ProjectCost": "1700000.0000",
+        "ProjectName": "CERAMIC ART WARES SCHEME ( MINERAL BASED INDUSTRY )"
+      },
+      "raw_title": "CERAMIC ART WARES SCHEME ( MINERAL BASED INDUSTRY )",
+      "record_key": "fda6382e-9e0b-5d2c-9beb-f022271f2ef4",
+      "title": "CERAMIC ART WARES SCHEME ( MINERAL BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "POLYMER AND CHEMICAL BASED INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FRUBBER_STAMPS_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FRUBBER_STAMPS_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FRUBBER_STAMPS_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "782",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "162000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315440)/",
+        "DocPath": "Documents/ProjectSampleReport/RUBBER_STAMPS_(_POLYMER_AND_CHEMICAL_BASED_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 782,
+        "ProjectCost": "162000.0000",
+        "ProjectName": "RUBBER STAMPS ( POLYMER AND CHEMICAL BASED INDUSTRY )"
+      },
+      "raw_title": "RUBBER STAMPS ( POLYMER AND CHEMICAL BASED INDUSTRY )",
+      "record_key": "fdfb58d7-3ca3-55a5-b91c-698a0a570c75",
+      "title": "RUBBER STAMPS ( POLYMER AND CHEMICAL BASED INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "SERVICE AND TEXTILE INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FELECTRONIC_GAS_LIGHTERS_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FELECTRONIC_GAS_LIGHTERS_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FELECTRONIC_GAS_LIGHTERS_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "320",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "473400"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315337)/",
+        "DocPath": "Documents/ProjectSampleReport/ELECTRONIC_GAS_LIGHTERS_(_SERVICE_AND_TEXTILE_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 320,
+        "ProjectCost": "473400.0000",
+        "ProjectName": "ELECTRONIC GAS LIGHTERS ( SERVICE AND TEXTILE INDUSTRY )"
+      },
+      "raw_title": "ELECTRONIC GAS LIGHTERS ( SERVICE AND TEXTILE INDUSTRY )",
+      "record_key": "ff1dfb03-5217-5041-8b93-5084c13f0eef",
+      "title": "ELECTRONIC GAS LIGHTERS ( SERVICE AND TEXTILE INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "RURAL ENGG. AND BIO-TECH INDUSTRY",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FLUGGAGE_CARRIERS_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FLUGGAGE_CARRIERS_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FLUGGAGE_CARRIERS_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf"
+        }
+      ],
+      "external_project_id": "502",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "512000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315360)/",
+        "DocPath": "Documents/ProjectSampleReport/LUGGAGE_CARRIERS_(_RURAL_ENGG._AND_BIO-TECH_INDUSTRY_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 502,
+        "ProjectCost": "512000.0000",
+        "ProjectName": "LUGGAGE CARRIERS ( RURAL ENGG. AND BIO-TECH INDUSTRY )"
+      },
+      "raw_title": "LUGGAGE CARRIERS ( RURAL ENGG. AND BIO-TECH INDUSTRY )",
+      "record_key": "ff4db311-595b-580a-822c-f1c6febdadeb",
+      "title": "LUGGAGE CARRIERS ( RURAL ENGG. AND BIO-TECH INDUSTRY )"
+    },
+    {
+      "canonical_listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "canonical_page_url": null,
+      "category_hint": "Samadhan Projects",
+      "discovery_status": "DISCOVERED",
+      "documents": [
+        {
+          "canonical_url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FArea_Nut_Plam_Leaf_Crockery_(_Samadhan_Projects_).pdf",
+          "declared_type": null,
+          "found_on_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+          "original_href": "/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FArea_Nut_Plam_Leaf_Crockery_(_Samadhan_Projects_).pdf",
+          "original_variants": [],
+          "title": "Download",
+          "url": "https://pmegp.msme.gov.in/Home/DownloadDocument?fileName=Documents%2FProjectSampleReport%2FArea_Nut_Plam_Leaf_Crockery_(_Samadhan_Projects_).pdf"
+        }
+      ],
+      "external_project_id": "59",
+      "listing_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList",
+      "normalized_metadata": {
+        "project_cost_inr": "2370000"
+      },
+      "page_url": null,
+      "raw_metadata": {
+        "CreatedOn": "/Date(1737724315283)/",
+        "DocPath": "Documents/ProjectSampleReport/Area_Nut_Plam_Leaf_Crockery_(_Samadhan_Projects_).pdf",
+        "IsActive": true,
+        "ModifyOn": null,
+        "PSRID": 59,
+        "ProjectCost": "2370000.0000",
+        "ProjectName": "Area Nut Plam Leaf Crockery ( Samadhan Projects )"
+      },
+      "raw_title": "Area Nut Plam Leaf Crockery ( Samadhan Projects )",
+      "record_key": "ffacdc17-7634-5e55-8a33-78bdc72df086",
+      "title": "Area Nut Plam Leaf Crockery ( Samadhan Projects )"
+    }
+  ],
+  "schema_version": 1,
+  "selection_method": "category-pattern-round-robin-v1",
+  "source_key": "pmegp",
+  "source_url": "https://pmegp.msme.gov.in/Home/ProjectDetailList"
+}
